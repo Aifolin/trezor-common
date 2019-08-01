@@ -10312,16 +10312,16 @@
                 }
             ]
         },
-        "erc20:eth:EXMR": {
+        "erc20:eth:EMTF": {
             "address": "0xc98e0639c6d2EC037A615341c369666B110e80E5",
             "links": {
-                "Github": "https://github.com/eXMRcoin/",
+                "Github": "https://github.com/eMTFcoin/",
                 "Homepage": "https://exmr.io/"
             },
             "marketcap_usd": 171649,
-            "name": "eXMRcoin",
+            "name": "eMTFcoin",
             "network": "eth",
-            "shortcut": "EXMR",
+            "shortcut": "EMTF",
             "t1_enabled": "yes",
             "t2_enabled": "yes",
             "type": "erc20",
@@ -29540,21 +29540,21 @@
                 }
             ]
         },
-        "misc:XMR": {
+        "misc:MTF": {
             "links": {
-                "Github": "https://github.com/monero-project/monero",
-                "Homepage": "https://getmonero.org"
+                "Github": "https://github.com/motif-project/motif",
+                "Homepage": "https://getmotif.org"
             },
             "marketcap_usd": 1368289356,
-            "name": "Monero",
-            "shortcut": "XMR",
+            "name": "Motif",
+            "shortcut": "MTF",
             "t1_enabled": "no",
             "t2_enabled": "yes",
             "type": "coin",
             "wallet": [
                 {
-                    "name": "Monero CLI/GUI",
-                    "url": "https://www.getmonero.org/downloads/"
+                    "name": "Motif CLI/GUI",
+                    "url": "https://www.getmotif.org/downloads/"
                 }
             ]
         },

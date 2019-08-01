@@ -30,17 +30,17 @@
         "blockchain_link": {}
     },
     {
-        "name": "Monero",
-        "shortcut": "XMR",
+        "name": "Motif",
+        "shortcut": "MTF",
         "slip44": 128,
         "curve": "ed25519",
         "decimals": 12,
         "links": {
-            "Homepage": "https://getmonero.org",
-            "Github": "https://github.com/monero-project/monero"
+            "Homepage": "https://getmotif.org",
+            "Github": "https://github.com/motif-project/motif"
         },
         "wallet": {
-            "Monero CLI/GUI": "https://www.getmonero.org/downloads/"
+            "Motif CLI/GUI": "https://www.getmotif.org/downloads/"
         },
         "blockchain_link": {}
     },
